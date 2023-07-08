@@ -1,0 +1,6 @@
+pyautogui
+python==3.10
+
+pip install gym 
+pip install opencv-python
+pip install stable_baselines3

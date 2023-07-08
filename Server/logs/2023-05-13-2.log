@@ -1,0 +1,26 @@
+[20:45:52] [Server thread/INFO]: Starting minecraft server version 1.12
+[20:45:52] [Server thread/INFO]: Loading properties
+[20:45:52] [Server thread/INFO]: Default game type: ADVENTURE
+[20:45:52] [Server thread/INFO]: Generating keypair
+[20:45:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:45:52] [Server thread/INFO]: Using default channel type
+[20:45:52] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[20:45:52] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[20:45:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:45:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:45:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:45:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:45:52] [Server thread/INFO]: Preparing level "world"
+[20:45:52] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8512837605108783586)
+[20:45:53] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8512837605108783586)
+[20:45:53] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8512837605108783586)
+[20:45:53] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[20:45:53] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[20:45:53] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[20:45:53] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[20:45:53] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[20:45:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:45:53] [Server thread/INFO]: Done (1.302s)! For help, type "help" or "?"
+[20:45:54] [Server thread/INFO]: Sir_Fredrick[/127.0.0.1:63409] logged in with entity id 22 at ([world]25.675215909847196, 64.0, 11.311615509030347)
+[20:46:56] [Server thread/INFO]: Sir_Fredrick lost connection: Disconnected
+[20:46:56] [Server thread/INFO]: Sir_Fredrick left the game
